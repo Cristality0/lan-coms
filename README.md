@@ -1,31 +1,12 @@
+## ❗ WORK IN PROGRESS DO NOT USE ❗
 <image src="src/assets/images/thumbnail.png" style="border-radius:16px;margin-bottom:5px;"/>
 
-## Features ⚡
-
-This template is packed with a lot of features including:
-
-- [x] Dark and light modes.
-- [x] Messages with attachments.
-- [x] Replies and pins.
-- [x] Conversations and archives.
-- [x] Settings.
-- [x] Notifications.
-- [x] Voice calls.
-- [x] Sign in and sign up pages.
-- [x] Password reset page.
-- [x] and much more.
-
-<br/>
-<br/>
-
 ## Setup 🔧
-
-Here is how to setup this template:
 
 <p>1. Clone the repository.</p>
 
 ```bash
-git clone https://github.com/demon-bixia/Avian-Template.git
+git clone git@github.com:Cristality0/lan-coms.git
 ```
 
 <p>2. Install dependencies.</p>
